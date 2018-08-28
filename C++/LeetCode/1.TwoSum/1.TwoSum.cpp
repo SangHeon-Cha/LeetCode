@@ -61,9 +61,9 @@ int main()
 		cout << result[i] << endl;
 	}
 
-	int z;
+	int bcd;
 
-	cin >> z;
+	cin >> bcd;
 
 	return 0;
 }
