@@ -1,6 +1,11 @@
-﻿// 744. FindSmallestLetter.cpp: 콘솔 응용 프로그램의 진입점을 정의합니다.
+// 744. FindSmallestLetter.cpp: 콘솔 응용 프로그램의 진입점을 정의합니다.
 //
 //https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
+
+/*
+TODO:
+문제를 잘못읽어서 쓸데없이 긴부분이 있음. 나중에 수정.
+*/
 
 #include "stdafx.h"
 #include <iostream>
