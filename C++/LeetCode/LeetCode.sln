@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45.JumpGame", "45.JumpGame\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "295.FindMedianfromDataStream", "295.FindMedianfromDataStream\295.FindMedianfromDataStream.vcxproj", "{C005F9F3-8236-4C44-9DAB-5DEE1BC4BAD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "326.PowerofThree", "326.PowerofThree\326.PowerofThree.vcxproj", "{42EB9AE9-49B5-4F28-9196-D38302FBFB88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{C005F9F3-8236-4C44-9DAB-5DEE1BC4BAD5}.Release|x64.Build.0 = Release|x64
 		{C005F9F3-8236-4C44-9DAB-5DEE1BC4BAD5}.Release|x86.ActiveCfg = Release|Win32
 		{C005F9F3-8236-4C44-9DAB-5DEE1BC4BAD5}.Release|x86.Build.0 = Release|Win32
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Debug|x64.ActiveCfg = Debug|x64
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Debug|x64.Build.0 = Debug|x64
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Debug|x86.ActiveCfg = Debug|Win32
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Debug|x86.Build.0 = Debug|Win32
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x64.ActiveCfg = Release|x64
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x64.Build.0 = Release|x64
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x86.ActiveCfg = Release|Win32
+		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
