@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "295.FindMedianfromDataStrea
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "326.PowerofThree", "326.PowerofThree\326.PowerofThree.vcxproj", "{42EB9AE9-49B5-4F28-9196-D38302FBFB88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "836RectangleOverlap", "836RectangleOverlap\836RectangleOverlap.vcxproj", "{FC074BBB-97B3-4371-B304-537A044D9FC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x64.Build.0 = Release|x64
 		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x86.ActiveCfg = Release|Win32
 		{42EB9AE9-49B5-4F28-9196-D38302FBFB88}.Release|x86.Build.0 = Release|Win32
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Debug|x64.ActiveCfg = Debug|x64
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Debug|x64.Build.0 = Debug|x64
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Debug|x86.Build.0 = Debug|Win32
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Release|x64.ActiveCfg = Release|x64
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Release|x64.Build.0 = Release|x64
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Release|x86.ActiveCfg = Release|Win32
+		{FC074BBB-97B3-4371-B304-537A044D9FC1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
