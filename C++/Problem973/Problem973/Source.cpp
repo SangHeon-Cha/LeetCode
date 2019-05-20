@@ -10,7 +10,4 @@ using namespace std;
 void main()
 {
 	cout << "hello" << endl;
-
-	int i = 0;
-	cin >> i;
 }
